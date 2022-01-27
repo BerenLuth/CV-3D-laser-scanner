@@ -1,0 +1,8 @@
+name: cv
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - opencv
+  - numpy
+prefix: /home/berenluth/miniconda3/envs/cv
