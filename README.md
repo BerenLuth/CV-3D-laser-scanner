@@ -23,7 +23,7 @@ On the object region some points of the plane will be displaced, and by computin
 
 ![point cloud](res/final_point_cloud.png)
 
-## Seutp
+## Setup
 All the code is placed in the python notebook file.
 There's an additional script ```./setup.sh``` that will download the files and unzip them in the right folder.
 The ```./requirements.txt``` file contains all the necessary libraries to run the project and can be used to create a conda environment.
