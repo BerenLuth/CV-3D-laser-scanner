@@ -1,4 +1,4 @@
-# Computer vision project 2018/2919 @ Unive
+# Computer vision project 2018/2019 @ Unive
 
 The aim of this project is to create a 3D scan of an object given a laser plane projection.
 ![preview](res/output.gif)
